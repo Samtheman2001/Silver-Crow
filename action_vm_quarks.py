@@ -46,7 +46,7 @@ def _ordered_demo_actions() -> List[str]:
 
 
 def _load_mapping() -> Dict[str, Tuple[str, str]]:
-    path = Path(__file__).resolve().parent.parent / "action VM quarks.txt"
+    path = Path(__file__).resolve().parent / "action_vm_quarks.txt"
     raw = path.read_text(encoding="utf-8")
     by_num = _parse_action_vm_file(raw)
     names = _ordered_demo_actions()
