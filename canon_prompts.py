@@ -17,8 +17,8 @@ import random
 import re
 from typing import Any, Dict, List, Literal, Mapping, Optional, Tuple, Union
 
-from .config import SAY_OPTIONS
-from .quarks_canon_prompts import CANON_PROMPTS as _QUARKS_CANON_PROMPTS
+from config import SAY_OPTIONS
+from quarks_canon_prompts import CANON_PROMPTS as _QUARKS_CANON_PROMPTS
 
 Bucket = Literal["positive", "neutral", "negative", "severe"]
 LineTier = Literal["common", "signature", "nuclear"]

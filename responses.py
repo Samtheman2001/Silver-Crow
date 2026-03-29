@@ -6,7 +6,7 @@ from __future__ import annotations
 
 import streamlit as st
 
-from .custom_label_pools import PREFERRED_RELATIONSHIPS, preferred_relationship_read
+from custom_label_pools import PREFERRED_RELATIONSHIPS, preferred_relationship_read
 
 
 def _flavor_relationship_line(label: str) -> str:

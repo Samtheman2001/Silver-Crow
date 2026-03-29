@@ -9,7 +9,7 @@ from __future__ import annotations
 import random
 from typing import Any, List, Mapping, Optional
 
-from .config import ACTION_OPTIONS
+from config import ACTION_OPTIONS
 
 
 def _social_band(state: Mapping[str, Any]) -> str:

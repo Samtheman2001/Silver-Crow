@@ -11,10 +11,10 @@ from typing import Any, Dict, Optional
 
 import streamlit as st
 
-from .config import SAY_OPTIONS, SCENARIOS
-from .memory import init_memory_state
-from .personality import get_character_dna
-from .scenario_layer import get_scenario_profile
+from config import SAY_OPTIONS, SCENARIOS
+from memory import init_memory_state
+from personality import get_character_dna
+from scenario_layer import get_scenario_profile
 
 # Exact SAY_OPTIONS keys we treat as polite first-impression openers.
 POLITE_SCRIPTED_OPENERS = frozenset(

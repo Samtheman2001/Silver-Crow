@@ -9,8 +9,8 @@ from __future__ import annotations
 import random
 from typing import Any, Dict, List, Mapping, MutableMapping, Optional, Tuple
 
-from .canon_prompts import normalize_prompt_key
-from .interaction_profile import DISRESPECT_MENU_PROMPTS, PROFILE_KEY
+from canon_prompts import normalize_prompt_key
+from interaction_profile import DISRESPECT_MENU_PROMPTS, PROFILE_KEY
 
 RECENT_PROMPT_MEMORY_KEY = "recent_prompt_memory"
 CALLBACK_DEBUG_KEY = "_callback_debug"

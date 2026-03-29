@@ -1,6 +1,14 @@
 import html
 import random
+import sys
 from copy import deepcopy
+from pathlib import Path
+
+# Streamlit Community Cloud (and `streamlit run …/main.py`) load this file as __main__;
+# ensure sibling modules in this folder resolve without a package parent.
+_SC_APP_DIR = Path(__file__).resolve().parent
+if str(_SC_APP_DIR) not in sys.path:
+    sys.path.insert(0, str(_SC_APP_DIR))
 
 import streamlit as st
 
@@ -11,7 +19,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-from .config import (
+from config import (
     ACTION_OPTIONS,
     ATTRIBUTES,
     BACKGROUNDS,
@@ -27,7 +35,7 @@ from .config import (
     get_say_options_for_scenario,
 )
 
-from .utils import (
+from utils import (
     _dna_clamp_trait,
     _stable_seed_from_text,
     apply_mods,
@@ -45,7 +53,7 @@ from .utils import (
     strip_outer_quotes,
 )
 
-from .memory import (
+from memory import (
     derive_read_on_you,
     init_memory_state,
     memory_add_recent,
@@ -56,7 +64,7 @@ from .memory import (
     update_interaction_trajectory,
 )
 
-from .personality import (
+from personality import (
     apply_mods_with_identity,
     dna_scaled_mods,
     generate_personality_dna,
@@ -65,7 +73,7 @@ from .personality import (
     maybe_apply_personal_quirk,
 )
 
-from .free_text import (
+from free_text import (
     CAT_MODE_FREE_TEXT_EFFECTS,
     FREE_TEXT_AGGRESSIVE_HARD_SUBSTR,
     FREE_TEXT_AGGRESSIVE_HARD_WORDS,
@@ -89,13 +97,13 @@ from .free_text import (
     speech_echoes_recent,
 )
 
-from .responses import (
+from responses import (
     fill_name_tokens,
     outcome_summary,
     relationship_label,
 )
 
-from .behavior_gate import (
+from behavior_gate import (
     EMOTIONAL_PRESSURE,
     LAST_STALL_CHECK_KEY,
     SESSION_MODE_KEY,
@@ -104,19 +112,19 @@ from .behavior_gate import (
     record_last_response_for_stall_gate,
     resolve_response_mode,
 )
-from .emotional_subtype import (
+from emotional_subtype import (
     PRESSURE_DEFAULT,
     ROMANTIC_PRESSURE,
     VALIDATION_SEEKING,
     record_menu_emotional_turn,
     subtype_stat_overlay,
 )
-from .canon_prompts import normalize_prompt_key as _normalize_menu_prompt_key
-from .finishers import (
+from canon_prompts import normalize_prompt_key as _normalize_menu_prompt_key
+from finishers import (
     FINISHER_SESSION_DEBUG_KEY,
     apply_finisher_debug_to_session,
 )
-from .interaction_profile import (
+from interaction_profile import (
     PROFILE_KEY,
     RECENT_FINISHERS_KEY,
     init_interaction_profile,
@@ -125,14 +133,14 @@ from .interaction_profile import (
     update_interaction_profile_after_action,
     update_interaction_profile_after_say,
 )
-from .action_quarks import MOONWALK_STREAK_KEY
-from .first_impression import first_impression_verbal_locked
-from .archetype_layer import (
+from action_quarks import MOONWALK_STREAK_KEY
+from first_impression import first_impression_verbal_locked
+from archetype_layer import (
     ARCHETYPE_DEBUG_KEY,
     resolve_archetype_id,
 )
-from .scenario_layer import resolve_scenario_adjustments
-from .trajectory_layer import (
+from scenario_layer import resolve_scenario_adjustments
+from trajectory_layer import (
     TRAJECTORY_DEBUG_KEY,
     bump_trajectory_progression_memory,
     resolve_initial_trajectory,
@@ -141,20 +149,20 @@ from .trajectory_layer import (
     scale_relief_mods_for_trajectory,
     scale_stat_mods_for_trajectory,
 )
-from .callback_memory import (
+from callback_memory import (
     CALLBACK_DEBUG_KEY,
     RECENT_CALLBACK_LINES_KEY,
     RECENT_PROMPT_MEMORY_KEY,
 )
-from .menu_responses import (
+from menu_responses import (
     is_low_stakes_personal_prompt,
     register_emotional_menu_prompt,
     reset_menu_emotional_pressure,
     soften_low_stakes_menu_mods,
 )
-from .response_intent import RECENT_INTENTS_KEY
+from response_intent import RECENT_INTENTS_KEY
 
-from .brain import (
+from brain import (
     _brain_pick,
     _crow_brain_pick_variant,
     _crow_seed_from_state,
@@ -172,16 +180,16 @@ from .brain import (
     infer_vibe,
     init_human_variation_state,
 )
-from .interaction_response import (
+from interaction_response import (
     DEMO_LAST_ACK_TEMPLATE_KEY,
     DEMO_LAST_MENU_SAY_INNER_KEY,
     DEMO_USED_SAY_LINES_KEY,
     ResponseContext,
     build_response,
 )
-from .session_finisher import finisher_pick_weighted
+from session_finisher import finisher_pick_weighted
 
-from .ui import app_css as ui_app_css, attribute_color, format_delta, get_avatar
+from ui import app_css as ui_app_css, attribute_color, format_delta, get_avatar
 
 SPECIAL_ENDING_KEY = "_special_ending"
 RELATIONSHIP_OVERRIDE_KEY = "relationship_status_override"

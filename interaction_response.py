@@ -11,26 +11,26 @@ from typing import Any, Dict, Literal, Mapping, Optional, Tuple
 
 import streamlit as st
 
-from .action_quarks import try_pick_authored_action_response
-from .action_social_layer import maybe_social_verbal_for_do_action, minimal_verbal_ack_for_do_action
-from .action_vm_quarks import authored_action_vm_pair
-from .brain import crow_brain_interpret, infer_physical_response, infer_tone, infer_vibe
-from .do_reactions import action_reaction
-from .finishers import finisher_shutdown_kind_for_do_action
-from .first_impression import first_impression_verbal_locked
-from .responses import demo_safe_dropdown_say_relationship, fill_name_tokens, relationship_status
-from .say_first_hit_overrides import get_say_first_hit_override
-from .say_murder_routing import (
+from action_quarks import try_pick_authored_action_response
+from action_social_layer import maybe_social_verbal_for_do_action, minimal_verbal_ack_for_do_action
+from action_vm_quarks import authored_action_vm_pair
+from brain import crow_brain_interpret, infer_physical_response, infer_tone, infer_vibe
+from do_reactions import action_reaction
+from finishers import finisher_shutdown_kind_for_do_action
+from first_impression import first_impression_verbal_locked
+from responses import demo_safe_dropdown_say_relationship, fill_name_tokens, relationship_status
+from say_first_hit_overrides import get_say_first_hit_override
+from say_murder_routing import (
     demo_dropdown_vm_inner_line,
     dropdown_say_candidate_bases_for_repeat,
     pick_say_repeat_warning_line,
     pick_say_repetition_murder_line,
     resolve_say_vm_physical,
 )
-from .say_pipeline import compose_say_response
-from .session_finisher import finisher_pick_weighted
-from .tone_vibe_map import resolve_tone_and_vibe
-from .utils import quote, sanitize_live_verbal_inner, strip_outer_quotes, verbal_triggers_conversation_shutdown
+from say_pipeline import compose_say_response
+from session_finisher import finisher_pick_weighted
+from tone_vibe_map import resolve_tone_and_vibe
+from utils import quote, sanitize_live_verbal_inner, strip_outer_quotes, verbal_triggers_conversation_shutdown
 
 SourceKind = Literal["authored", "engine"]
 

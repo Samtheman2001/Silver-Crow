@@ -11,7 +11,7 @@ from __future__ import annotations
 import random
 from typing import Any, Dict, Literal, Mapping, Optional, Tuple
 
-from .canon_prompts import normalize_prompt_key
+from canon_prompts import normalize_prompt_key
 
 ScenarioId = Literal["living_room", "waiting_in_line", "bus_stop", "movie_theater", "first_date"]
 PromptClass = Literal["natural", "awkward", "risky", "absurd"]

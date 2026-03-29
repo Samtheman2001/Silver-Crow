@@ -11,8 +11,8 @@ from typing import Any, Dict, Optional
 
 import streamlit as st
 
-from .config import BASE_STATE
-from .utils import (
+from config import BASE_STATE
+from utils import (
     _dna_clamp_trait,
     _stable_seed_from_text,
     apply_mods,
@@ -275,7 +275,7 @@ def maybe_apply_personal_quirk(verbal, brain, state, user_input=None, free_text_
         return verbal
     if free_text_category and str(free_text_category).startswith(("aggressive_", "absurd", "apology")):
         return verbal
-    from .first_impression import first_impression_verbal_locked, preserve_scripted_menu_response
+    from first_impression import first_impression_verbal_locked, preserve_scripted_menu_response
 
     att0 = (brain or {}).get("attitude", "guarded")
     t0 = int(st.session_state.get("turns", 0))

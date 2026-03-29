@@ -336,7 +336,7 @@ def get_say_options_for_scenario(scenario_name: str) -> dict:
     `SAY_OPTIONS` remains the canonical effect/response lookup; this function controls what the UI/test
     dropdown offers for a given scenario (scenario-specific hides only; no duplicate banks).
     """
-    from .scenario_layer import filter_say_options_for_scenario
+    from scenario_layer import filter_say_options_for_scenario
 
     return filter_say_options_for_scenario(DEFAULT_SAY_OPTIONS, scenario_name)
 

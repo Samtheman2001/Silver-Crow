@@ -10,7 +10,7 @@ from __future__ import annotations
 import random
 from typing import Any, Dict, Mapping, MutableMapping, Optional, Tuple
 
-from .interaction_profile import (
+from interaction_profile import (
     DISRESPECT_MENU_PROMPTS,
     PROFILE_KEY,
     PUSHY_ACTIONS,

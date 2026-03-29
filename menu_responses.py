@@ -11,7 +11,7 @@ from typing import Any, Callable, Dict, List, Optional, Sequence, Tuple
 
 import streamlit as st
 
-from .behavior_gate import (
+from behavior_gate import (
     CHALLENGE,
     DEFAULT_MIXED,
     EMOTIONAL_PRESSURE,
@@ -23,7 +23,7 @@ from .behavior_gate import (
     SESSION_MODE_KEY,
     try_direct_free_text_answer,
 )
-from .emotional_subtype import (
+from emotional_subtype import (
     ACCUSATION_HURT,
     CONTROL_PROBE,
     OPEN_SOCIAL_REENGAGE,
@@ -39,18 +39,18 @@ from .emotional_subtype import (
     is_false_softness_transition,
     reset_emotional_subtype_history,
 )
-from .archetype_layer import ARCHETYPE_DEBUG_KEY, merge_tier_triples
-from .trajectory_layer import TRAJECTORY_DEBUG_KEY
-from .callback_memory import (
+from archetype_layer import ARCHETYPE_DEBUG_KEY, merge_tier_triples
+from trajectory_layer import TRAJECTORY_DEBUG_KEY
+from callback_memory import (
     CALLBACK_DEBUG_KEY,
     try_callback_menu_override,
 )
-from .canon_prompts import get_canonical_menu_response, has_canon_bank
-from .config import SAY_OPTIONS
-from .interaction_profile import snapshot_profile
-from .scenario_layer import resolve_scenario_adjustments
-from .response_voice import maybe_sharpen_response
-from .utils import strip_outer_quotes
+from canon_prompts import get_canonical_menu_response, has_canon_bank
+from config import SAY_OPTIONS
+from interaction_profile import snapshot_profile
+from scenario_layer import resolve_scenario_adjustments
+from response_voice import maybe_sharpen_response
+from utils import strip_outer_quotes
 
 MENU_EMOTIONAL_PRESSURE_KEY = "menu_emotional_pressure_state"
 

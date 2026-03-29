@@ -9,41 +9,41 @@ from typing import Any, Mapping, Optional, Tuple
 
 import streamlit as st
 
-from .archetype_layer import (
+from archetype_layer import (
     ARCHETYPE_DEBUG_KEY,
     append_archetype_physical_flavor,
     apply_archetype_bucket_nudge,
     resolve_archetype_adjustments,
     resolve_archetype_id,
 )
-from .behavior_gate import SESSION_MODE_KEY, filter_stall_from_pool_lines
-from .brain import choose_bucket, infer_physical_response, infer_tone, infer_vibe
-from .callback_memory import (
+from behavior_gate import SESSION_MODE_KEY, filter_stall_from_pool_lines
+from brain import choose_bucket, infer_physical_response, infer_tone, infer_vibe
+from callback_memory import (
     CALLBACK_DEBUG_KEY,
     RECENT_PROMPT_MEMORY_KEY,
     apply_callback_bucket_nudge,
     compute_callback_signals,
 )
-from .canon_prompts import normalize_prompt_key as _normalize_menu_prompt_key
-from .free_text import free_text_verbal_response
-from .interaction_profile import snapshot_profile
-from .menu_responses import (
+from canon_prompts import normalize_prompt_key as _normalize_menu_prompt_key
+from free_text import free_text_verbal_response
+from interaction_profile import snapshot_profile
+from menu_responses import (
     filter_generic_engaged_fallback_pool,
     maybe_menu_intelligent_response,
 )
-from .personality import get_character_dna
-from .responses import fill_name_tokens
-from .scenario_layer import apply_scenario_bucket_nudge, append_physical_flavor
-from .trajectory_layer import (
+from personality import get_character_dna
+from responses import fill_name_tokens
+from scenario_layer import apply_scenario_bucket_nudge, append_physical_flavor
+from trajectory_layer import (
     TRAJECTORY_DEBUG_KEY,
     append_trajectory_phase_physical_flavor,
     apply_trajectory_bucket_nudge,
     resolve_trajectory_adjustments,
     resolve_trajectory_id,
 )
-from .first_impression import calibrate_bucket_for_polite_opener
-from .memory import init_memory_state
-from .utils import clamp_demo_physical_line, quote
+from first_impression import calibrate_bucket_for_polite_opener
+from memory import init_memory_state
+from utils import clamp_demo_physical_line, quote
 
 
 def _debug_menu_prompt_trace(

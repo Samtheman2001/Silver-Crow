@@ -12,12 +12,12 @@ from typing import Any, Dict, List, Optional, Set
 
 import streamlit as st
 
-from .emotional_subtype import (
+from emotional_subtype import (
     classify_emotional_subtype,
     get_recent_subtype_history,
     refine_emotional_subtype,
 )
-from .utils import apply_mods, strip_outer_quotes
+from utils import apply_mods, strip_outer_quotes
 
 # Question / input types (string tags)
 FACTUAL_PERSONAL = "FACTUAL_PERSONAL"

@@ -10,8 +10,8 @@ from __future__ import annotations
 import random
 from typing import Any, Dict, Mapping, Optional, Tuple
 
-from .canon_prompts import normalize_prompt_key
-from .scenario_layer import get_scenario_profile
+from canon_prompts import normalize_prompt_key
+from scenario_layer import get_scenario_profile
 
 ArchetypeId = str
 

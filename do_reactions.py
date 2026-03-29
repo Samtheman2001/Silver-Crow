@@ -6,8 +6,8 @@ from __future__ import annotations
 import random
 from typing import Any, Mapping, Optional, Tuple
 
-from .brain import infer_physical_response, infer_tone, infer_vibe
-from .utils import quote
+from brain import infer_physical_response, infer_tone, infer_vibe
+from utils import quote
 
 
 def action_reaction(

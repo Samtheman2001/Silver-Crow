@@ -8,7 +8,7 @@ from __future__ import annotations
 
 from typing import Any, Mapping, Optional, Tuple
 
-from .utils import strip_outer_quotes
+from utils import strip_outer_quotes
 
 # Free-text category → (tone, vibe) — HOW delivery + WHAT the moment feels like
 _CATEGORY_TONE_VIBE: dict[str, Tuple[str, str]] = {

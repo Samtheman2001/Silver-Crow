@@ -11,9 +11,9 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 
 import streamlit as st
 
-from .first_impression import is_polite_opener_user_input
-from .memory import init_memory_state
-from .responses import relationship_status
+from first_impression import is_polite_opener_user_input
+from memory import init_memory_state
+from responses import relationship_status
 
 RECENT_INTENTS_KEY = "response_intent_recent"
 

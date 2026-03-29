@@ -6,9 +6,9 @@ from __future__ import annotations
 import random
 from typing import Callable, List, Optional
 
-from .canon_prompts import get_authored_prompt_bank
-from .config import SAY_OPTIONS
-from .utils import strip_outer_quotes
+from canon_prompts import get_authored_prompt_bank
+from config import SAY_OPTIONS
+from utils import strip_outer_quotes
 
 FREE_TEXT_REPETITION_MURDER_LINES: tuple[str, ...] = (
     "I heard you the first time. I'm not doing this on loop.",

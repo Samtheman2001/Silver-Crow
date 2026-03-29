@@ -8,10 +8,10 @@ import random
 
 import streamlit as st
 
-from .behavior_gate import try_direct_free_text_answer
-from .brain import infer_tone, infer_vibe
-from .memory import init_memory_state
-from .utils import clamp01, normalize_speech, quote
+from behavior_gate import try_direct_free_text_answer
+from brain import infer_tone, infer_vibe
+from memory import init_memory_state
+from utils import clamp01, normalize_speech, quote
 
 
 def infer_physical_response(state):

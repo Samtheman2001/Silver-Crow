@@ -8,7 +8,7 @@ import random
 import re
 from copy import deepcopy
 
-from .config import (
+from config import (
     BASE_STATE,
     PERSONALITIES,
     BACKGROUNDS,

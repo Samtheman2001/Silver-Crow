@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-from .config import ACTION_OPTIONS
+from config import ACTION_OPTIONS
 
 _PAIR_LINE_RE = re.compile(
     r"^\s*(\d+)\.\s*Action:\s*(.+)$",

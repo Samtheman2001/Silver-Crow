@@ -6,8 +6,8 @@ from __future__ import annotations
 
 import streamlit as st
 
-from .personality import get_character_dna
-from .utils import clamp, clamp01, normalize_speech
+from personality import get_character_dna
+from utils import clamp, clamp01, normalize_speech
 
 
 def init_memory_state():

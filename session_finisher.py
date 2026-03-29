@@ -5,14 +5,14 @@ from __future__ import annotations
 
 import streamlit as st
 
-from .archetype_layer import (
+from archetype_layer import (
     ARCHETYPE_DEBUG_KEY,
     resolve_archetype_adjustments,
     resolve_archetype_id,
 )
-from .finishers import pick_finisher_line
-from .interaction_profile import RECENT_FINISHERS_KEY, snapshot_profile
-from .trajectory_layer import (
+from finishers import pick_finisher_line
+from interaction_profile import RECENT_FINISHERS_KEY, snapshot_profile
+from trajectory_layer import (
     TRAJECTORY_DEBUG_KEY,
     merge_finisher_bias_tuples,
     merge_finisher_tag_weights,

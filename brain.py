@@ -10,7 +10,7 @@ from typing import Tuple
 
 import streamlit as st
 
-from .config import (
+from config import (
     ACTION_OPTIONS,
     BACKGROUNDS,
     BASE_STATE,
@@ -20,13 +20,13 @@ from .config import (
     SCENARIOS,
     STARTING_MOODS,
 )
-from .behavior_gate import filter_stall_from_pool_lines, is_specific
-from .custom_label_pools import preferred_tone_for, preferred_vibe_for
-from .first_impression import first_impression_verbal_locked, preserve_scripted_menu_response
-from .response_intent import pick_overlay_line_and_nudge
-from .memory import derive_read_on_you, init_memory_state, relationship_trend
-from .personality import get_character_dna, maybe_apply_personal_quirk
-from .utils import (
+from behavior_gate import filter_stall_from_pool_lines, is_specific
+from custom_label_pools import preferred_tone_for, preferred_vibe_for
+from first_impression import first_impression_verbal_locked, preserve_scripted_menu_response
+from response_intent import pick_overlay_line_and_nudge
+from memory import derive_read_on_you, init_memory_state, relationship_trend
+from personality import get_character_dna, maybe_apply_personal_quirk
+from utils import (
     apply_mods,
     clamp,
     quote,
