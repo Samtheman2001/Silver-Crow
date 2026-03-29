@@ -1,0 +1,2 @@
+"""Silver Crow modular package."""
+
