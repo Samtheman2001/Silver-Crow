@@ -43,7 +43,7 @@ def _parse_other_quarks(text: str) -> Tuple[List[str], List[str], List[str]]:
 
 
 def _load() -> Tuple[List[str], List[str], List[str]]:
-    path = Path(__file__).resolve().parent.parent / "other quarks.txt"
+    path = Path(__file__).resolve().parent / "other_quarks.txt"
     return _parse_other_quarks(path.read_text(encoding="utf-8"))
 
 
