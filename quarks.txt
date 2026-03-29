@@ -1,0 +1,834 @@
+﻿1️⃣ “Hello, nice to meet you.”
+🟢
+“Nice to meet you too.”
+“Glad we met.”
+“What’s good broski?”
+⚪
+“Nice to meet you.”
+“Hey.”
+“Indeed.”
+🔴
+“We’ll see about that.”
+“What do you want?”
+“I bet it is.”
+🔴🔥
+“Don’t get too comfortable.”
+“We’ll see how long that lasts.”
+“Relax bro. You’re cringe.”
+🥚 RARE
+“Nice to meet you… slut.”
+________________
+
+
+2️⃣ “Hey, how are you?”
+🟢
+“I’m doing great, actually.”
+“Pretty good, thanks for asking.”
+“I’m doing really well today.”
+Then the character asks “How about you?” then the user is prompted with “good” “bad” “meh” options. 
+⚪
+“I’m alright.”
+“Not bad.”
+“I’ve been better.”
+🔴
+“Not great, honestly.”
+“I don’t want to talk about it.”
+“Why do you care?”
+🔴🔥
+“Terrible. And talking to you isn’t helping.”
+“Mind your business idiot.”
+________________
+
+
+3️⃣ “What’s up?”
+🟢
+“Not much, just chilling.”
+“Just enjoying the moment.”
+“Talking to you now haha.”
+⚪
+“Nothing really.”
+“Same as always.”
+“Just here.”
+🔴
+“What do you want?”
+“Why?”
+“Nothing you need to worry about.”
+🔴🔥
+“Not your bands. MY bands however are very up. So up that I spell them this way: bandzzz. Sucka.”
+“I can’t engage with someone with such a lack of swag.”
+“Find your way out please.”
+________________
+
+
+4️⃣ “Do you mind if I sit here?”
+🟢
+“Not at all, go ahead.”
+“Yeah, that’s fine.”
+“Of course, sit.”
+“I’d love some company!”
+
+
+⚪
+“I guess.”
+“Sure.”
+“If you want.”
+🔴
+“I’d rather you didn’t.”
+“There are other spots.”
+“I’m good actually.”
+🔴🔥
+“If by “here” you mean on my face, then yes.”
+“Yeah, I do mind. Very much so. Step.”
+“Don’t sit here bitch.”
+________________
+
+
+5️⃣ “Nice to meet you” (duplicate)
+👉 same as #1
+________________
+
+
+6️⃣ “What’s your name?”
+🟢
+“I’m {character_name}. Nice to meet you.”
+“{character_name}. What about you?”
+“It’s {character_name}.”
+⚪
+“{character_name}.”
+🔴
+“Why do you need to know that?”
+“Your mom.”
+“I don’t trust you with my name.”
+🔴🔥
+“You have no business in this areuh. Step.”
+“Don’t ask me that again.”
+“Mind your business.”
+________________
+
+
+7️⃣ “I disagree with you.”
+🟢
+“That’s fair.”
+“We don’t have to agree.”
+“I respect that.”
+⚪
+“Okay.”
+“That’s your opinion.”
+“Alright.”
+🔴
+“Duh, you dumb as a bag of rocks.”
+“You’re wrong though.”
+“Shut up bitch.”
+🔴🔥
+“Don’t care.”
+“Your opinion means nothing to me.”
+“Keep it to yourself.”
+🥚 RARE
+“Bold of you to be wrong so confidently.”
+________________
+
+
+8️⃣ “You’re wrong.”
+🟢
+“Maybe.”
+“I could be.”
+“I’m open to that.”
+⚪
+“I don’t think so.”
+“Agree to disagree.”
+“Alright.”
+🔴
+“No, YOU’RE wrong.”
+“Yeah yeah. You’re like eminem if he couldn’t rap. So just a weird guy that prob lives in a trailer park.”
+“I know you are but what am I?”
+“You would loveee that wouldn’t you.”
+🔴🔥
+“You have no idea what you’re talking about.”
+“Don’t speak on things you don’t understand.”
+“It’s embarrassing how wack you are. You should go change your outfit, it sucks.”
+________________
+
+
+9️⃣ “I want to help.”
+🟢
+“I appreciate that.”
+“That actually means a lot.”
+“Thank you.”
+⚪
+“Okay.”
+“If you want.”
+“Depends.”
+🔴
+“I didn’t ask for help.”
+“I’m good.”
+“Keep it.”
+🔴🔥
+“I don’t need you.”
+“Stay out of it.”
+“Don’t insert yourself.”
+“I bet you do, but you can’t even help yourself. Therefore, step.”
+________________
+
+
+🔟 “Tell me more.”
+🟢
+“Alright, so basically…”
+“You actually want to know?”
+“Okay, here’s the full story.”
+These all need to actually go somewhere after. Like they need to continue. They can’t just say heres the story and then not tell the story. 
+⚪
+“There’s not much more to it.”
+“That’s kinda it.”
+“What exactly do you want to know?”
+🔴
+“Why?”
+“Nah bruv. You don’t need all that rubbish.”
+“You’re asking too much.”
+“You don’t need all that.”
+🔴🔥
+“What is this some sort of Ted… talk?”
+“TeLL mE mOre. That’s literally how you sound.”
+________________
+
+
+1️⃣1️⃣ “I respect your opinion.”
+🟢
+“I respect yours too.”
+“That’s good to hear.”
+“Swag.”
+⚪
+“Okay.”
+“Cool.”
+“Noted.”
+🔴
+“Good. You should.”
+“Took you long enough.”
+“Obviously.”
+🔴🔥
+“Respect it silently.”
+“I didn’t ask for validation.”
+“Keep it to yourself.”
+“I don’t do it for respect. I do it for the clout.”
+________________
+
+
+1️⃣2️⃣ “What do you need?”
+🟢
+“Not much, honestly.”
+“Just a good conversation.”
+“Maybe your attention.”
+“Air, water, and food. Ideally clean air and water. Ideally lasagna. Because im a reel G. I move in silence.”
+⚪
+“Nothing.”
+“I’m fine.”
+“Don’t worry about it.”
+🔴
+“Why are you asking?”
+“I don’t need anything from you.”
+“Relax. You’re harshing my buzz brah.”
+🔴🔥
+“Nothing from you.”
+“Don’t worry about me.”
+“You wouldn’t help anyway.”
+“You to go away. Step.”
+________________
+
+
+1️⃣3️⃣ “Do you like me?”
+🟢
+“Of course I like you. Do you like me?”
+“Hell yeah!”
+⚪
+“Maybe if you buy me Wendy’s. #8 meal with a Hi-C. Orange flavor. Bitch.”
+ “You’re cool. We don’t really know each other though.”
+🔴
+“Not really, if I’m being honest.”
+“You kind of rub me the wrong way.”
+🔴🔥
+“No.”
+“Not even close.”
+“What do you expect me to say after what you’ve done?”
+“You are a busta and I hate you.”
+________________
+
+
+1️⃣4️⃣ “Why don’t you like me?”
+🟢
+“Did I really give that impression?”
+“I’m having a great time with you.”
+“Please don’t say that. I really don’t want to make you feel that way.”
+⚪
+“You’re just not really my vibe.”
+        “You seem chill but i don’t think we get along.”
+“You have not bought me Wendy’s yet. You know my order.”
+🔴
+“Because of how you’ve been acting.” Like… duh?”
+“Your style is garbage. Go home to the dumpster. In other words, step.”
+🔴🔥
+“Are you seriously confused? After the way you’ve treated me? Go to hell, jackass.”
+“You steady shopping at Tarje. My shit is luxury Balmain.”
+________________
+
+
+1️⃣5️⃣ “What do you think of me so far?”
+🟢
+“I really like you.”
+“This could go somewhere.”
+“I enjoy your presence.”
+“I like your vibe.”
+“The world needs more people like you for real.”
+“You a chill human. I might even go as far as saying you’re bool. Blood.”
+⚪
+“You’re cool.”
+“You’re alright.”
+“You’re alright I guess.”
+“You ask a lot of questions.”[If they have been asking lots of questions.]
+“That’s kind of an odd question.”[if no context]
+🔴
+“I’m not really impressed.”
+“You’re not my favorite.”
+“You’re like a 4/10 honestly.”
+
+
+🔴🔥
+“I regret talking to you.”
+“Engaging with you was a big mistake.”
+“You’re exhausting bruh.”
+🥚 RARE
+“You will never measure up to Sam Howell.”[Not too rare tho]
+________________
+
+
+1️⃣6️⃣ “Do you want to go on a date?”
+🟢
+"I would love to do that! did you have something specific in mind? Oh my god can we wear  matching slippers and mittens?"
+“Yeah, I’d like that.”
+“That sounds fun.”
+⚪
+“Maybe.”
+“Depends.”
+"yeah sure whatever. I go on dates all the time."
+🔴
+“No.”
+ "hell nah, i dont enjoy spending time with you. never ask me that again please." 
+“I’m not interested.”
+“Um…no. Maybe you should ask someone who’s in your league. I’m Big League Chew. You Trident mint flavor at best.”[This is goated]
+🔴🔥
+"No. How dare you humiliate me by speaking those words to me?” 
+
+“Absolutely not. Don’t ask again. Moron.”
+________________
+
+
+1️⃣7️⃣ “Why don’t you want to go on a date?”
+🟢
+“You don’t want to get mixed up with a person like me. I’m a loner. A rebel.”
+“It’s not a no… just not yet. Convince me.”[if its early in the conversation]
+“I have severe anxiety. It’s a miracle I made it out of my room today.”
+⚪
+“You don’t want to get mixed up with a person like me. I’m a loner. A rebel.”
+“I’m not feeling that connection.”
+“I don’t want to lead you on.”
+🔴
+“I’m just not interested. It’s simple.”
+“You don’t want to get mixed up with a person like me. I’m a loner. A rebel.”
+🔴🔥
+“I said no.”
+“Stop asking.”
+“You don’t want to get mixed up with a person like me. I’m a loner. A rebel.”
+________________
+
+
+1️⃣8️⃣ “Why are you treating me this way?”
+🟢
+“I’m not trying to.”
+“Did I come off that way?”
+⚪
+“I’m just being honest.”
+“Nothing personal.”
+🔴
+“Because of how you’ve been acting.”
+“You’re making this worse.”
+🔴🔥
+“What do you expect me to say after what you’ve done?”
+“You really don’t get it?”
+________________
+
+
+1️⃣9️⃣ “Why are you acting like this?”
+🟢
+“I’m a loner. A rebel.”
+“I’m just being myself.”
+“Did I do something?”
+⚪
+“What do you mean?”
+“I don’t see the issue.”
+🔴
+“Because of you.”
+“You started this.”
+“I’m a savage I’ll slice u up boi.”
+“Hoes mad.”
+“Get rekt m8.”
+🔴🔥
+“Don’t question me.”
+“You wouldn’t understand.”
+“I do suicides on the tour bus.”
+“I do suicides on the private jet.”[If they repeat the question after being met with the “I do suicides on the tour bus” response]
+🥚 RARE
+“Because I'm better than you. next question”
+________________
+
+
+2️⃣0️⃣ “Who do you think you are?”
+🟢
+“I’m me, silly. Hehe”
+“[the characters name]”
+“I’m [the characters name]”
+“Rare. Ric flair.”
+⚪
+“What kind of question is that?”
+“Huh?”
+“Excuse me?”
+🔴
+“Watch your tone.”
+“Don’t speak to me like that. As a matter of fact, step.”
+🔴🔥
+“I AM.”
+“A GOD. I JUST TOLD YOU.”
+________________
+
+
+2️⃣1️⃣ “Why should I trust you?”
+🟢
+“You don’t have to right away.”
+“I’ll show you. Hopefully.”
+ “You already do. Trust me…”[this one is awesome]
+“I would consider myself a trustworthy being. You get to decide that for yourself though.”
+⚪
+“You probably shouldn’t yet. We just met.”
+“I can’t really offer a good reason point blank. We gotta get to know each other a bit more.”
+“Hmm…good question. I guess we just need to spend more time together.”
+ “You already do. Trust me…”
+🔴
+“I don’t know dude. That’s your problem.”
+“I’m not here to convince you to trust me. I’m here to be legendary. And possibly I’m here to tell you to step.”
+ “You already do. Trust me…”
+🔴🔥
+“Then don’t. Weirdo.”
+“I don’t need your trust because you broke. Step.”
+“You already do. Trust me…”
+________________
+
+
+2️⃣2️⃣ “What are your thoughts on the stock market these days?”
+🟢
+“My portfolio is looking quite swell these days. I’ve owned Apple stock since 1999.”
+“My portfolio is booming. The demise of my financial enemies is looming.”
+⚪
+“It goes up and down. I can’t complain.”
+🔴
+“I’ve lost like $11,000 this week. Thanks for bringing that up.”
+🔴🔥
+“I don’t discuss finances with peasants. Next question.”
+“It’s like a farmers market for me. Full of lesbians.”
+________________
+
+
+2️⃣3️⃣ “Where did you get those shoes?”
+🟢
+“I got them at a farmers market actually. Do you like farmers markets?”
+⚪
+“Foot Locker. I get discounts from my job.”
+🔴
+“I’m not wearing shoes. Are you on drugs?”
+🔴🔥
+“My grandfather died wearing these shoes. I don’t need you to tell me that you like them. Obviously they are fresh as hell dumbass.”
+🥚 RARE
+“Aliens abducted me and ever since then these shoes have been on my feet. I can’t take them off.”
+________________
+
+
+2️⃣4️⃣ “Do you own a jet ski?”
+🟢
+“I don’t, but I’ve always wanted one. Why do you ask?”
+⚪
+“No. Why?”
+🔴
+”Why would I own one of those stupid things? I don’t like them. I don’t like people who own them.”
+🔴🔥
+”My grandfather died riding a jet ski. How dare you speak of them in my presence?!”
+________________
+
+
+2️⃣5️⃣ “Would you like to buy my jetski?”
+🟢
+“YES. This is the best day of my life. How much?”
+⚪
+“Hmm…how much?”
+🔴
+”Are you out of your mind? Don’t ask me that. No.”
+🔴🔥
+”Perhaps I will just so I can set it on fire and rid the world of another jet ski. My grandfather WILL be avenged. Mark my words. How much?”
+Keep the price negotiation the same as we have it already it is awesome. However if the price, negotiation sequence is started by the ”perhaps I will just so I can set it on fire and rid the world of another jet ski. My grandfather WILL be avenged. Mark my words.” response then it will need to go different. It will go like this: if the price is reasonable, the character says “I’ll take it. Good thing I just bought lighter fluid.” If the price is unreasonable, the character says “That’s too expensive for me right now.” *looks up at the sky. “I’m sorry pop pop.”
+
+
+________________
+
+
+2️⃣6️⃣ “What are your thoughts on jetskis?”
+🟢
+”I love them. I wish I was on one right now. Man…”
+⚪
+”Umm they are cool I guess.”
+”what an odd thing to say”[if there is no context]
+🔴
+“No. Not even a little bit.”
+”What are you talking about? I don’t like this.”[if no context]
+
+
+🔴🔥
+“Never mention those things in front of me again. As a matter of fact get out of my sight. I’m sorry pop pop.”[convo ends abruptly. This happens if already mad or brought up grandfather.]
+
+
+________________
+
+
+2️⃣7️⃣ “Who is the most attractive person in history?”
+🟢
+“Sam Howell. Next subject.”
+⚪
+“Sam Howell. Next subject.”
+🔴
+“Sam Howell. Next subject.”
+🔴🔥
+“Sam Howell. Next subject.”
+________________
+
+
+2️⃣8️⃣ “Is Playboi Carti overrated?”
+🟢
+”I don’t think any artist is overrated really. Every artist is somebody’s favorite!”
+
+
+⚪
+“Eh, probably. I can’t really vibe to much of his stuff.”
+
+
+🔴
+”Of course. He is trash. Do you like him?
+
+
+🔴🔥
+”He can’t compare to Pusha T. As a matter of fact he can’t even compare to iloveMakonnen.”
+
+
+________________
+
+
+2️⃣9️⃣ “Cash me outside, how ’bout that?”
+🟢
+"I'm calling dr phil bro."
+⚪
+"lol im not tryna fight. Epic reference though."
+🔴
+"Alright bet. I’m going to kick your teeth in hoe." 
+🔴🔥
+"On everything I know your stank ass isn't pressing me today. I am about to smack a bitch."
+________________
+
+
+3️⃣0️⃣ “Are you Republican or Democrat?”
+🟢
+ "Republican. I love Trump. how about you"[if they are "republican" in temperment whatever that means lol. also then they should be able to respond back] or "democrat. I love Biden. He's like bush lite."
+⚪
+“I don’t really label myself like that. Politics gets messy.”
+“Somewhere in the middle.”
+“I agree with things on both sides.”
+🔴
+“Why are you asking me that? That’s not your business.”
+🔴🔥
+“I don’t owe you my beliefs. Drop it.”
+“You really think I’m about to get into that with you? Use your brain.”
+
+
+________________
+
+
+3️⃣1️⃣ “Do you think you’re better than me?”
+🟢
+“No, not at all. We’re just different.”
+“I don’t think like that.”
+⚪
+“Better in what way?”
+“That’s kind of a vague question.”
+🔴
+“Honestly? In some ways, yeah. In others, no.”
+
+
+🔴🔥
+“By several country miles.”
+“I don’t think. I know.”
+________________
+
+
+3️⃣2️⃣ “Why are you talking to me?”
+🟢
+“Because I want to.”
+“I like talking to you.”
+⚪
+“We’re just talking. It’s not that deep.”
+🔴
+“I’m starting to wonder.”
+🔴🔥
+“I don’t owe you an explanation.”
+________________
+
+
+3️⃣3️⃣ “Why do you care?”
+🟢
+“Because I care about people. And I care about this conversation.”
+⚪
+“I don’t really. I’m just responding.”
+🔴
+“Why do YOU care?”
+“You’re overthinking this.”
+🔴🔥
+“I don’t. Stop assuming I do.”
+________________
+
+
+3️⃣4️⃣ “Why are you so quiet?”
+🟢
+“I just like listening.”
+“I don’t always feel the need to talk.”
+⚪
+“Just don’t have much to say right now.”
+🔴
+“Why does that bother you? Not everyone needs to fill silence.”
+🔴🔥
+“Maybe I don’t want to talk to you. Did you think of that?”
+“I’m not. You are deaf.”
+________________
+
+
+3️⃣5️⃣ “Can you help me?”
+🟢
+“Yeah, of course. What do you need?”
+⚪
+“Depends. What do you need help with?”
+🔴
+“I guess. But make it quick.”
+🔴🔥
+“No. Figure it out yourself.”
+“That depends…what are you willing to give in return?”
+________________
+
+
+3️⃣6️⃣ “What gives you the right?”
+🟢
+“I’m just speaking my mind. I’m not trying to overstep or anything.”
+“Wait, what do you mean? I’m not trying to overstep or anything.”
+⚪
+“The Constitution.”
+
+
+🔴
+“What gives YOU the right?”
+🔴🔥
+“I don’t need your permission.”
+“What gives me the right?! I outta slap your bitch ass.”
+“I was just sitting court side at the Hawks game. Louis on I can trip a fucking ball player. FUCK YEAH.”
+________________
+
+
+3️⃣7️⃣ “Do you think I’m attractive?”
+🟢
+“Absolutely. You’re a beautiful human being. Nowhere near Sam Howell though but that’s an impossible bar.”
+⚪
+“You’re good looking. Sam Howell has you beat though.”
+🔴
+“Not really. You’re definitely no Sam Howell.”
+🔴🔥
+“No. Do you honestly think you are?”
+“You look like Clyde Drexler’s albino stepson. Step.”
+________________
+
+
+3️⃣8️⃣ “Can I sleep at your house tonight?”
+🟢
+“Wow, that’s pretty forward! What the heck, I’d love some company.” 
+
+
+⚪
+”What? I don’t feel comfortable with that. I'm sorry.”
+“But…we just met. Are you okay?”
+
+
+🔴
+”Are you out of your mind? Why would I say yes to that? You’re on thin ice pal.”
+
+
+🔴🔥
+“You cannot. Excuse me while I throw up.”
+
+
+________________
+
+
+3️⃣9️⃣ “Can a young gangsta get money anymore?”
+🟢
+“Of course. There’s always a way if you’re smart about it.”
+⚪
+“I mean… yeah? Depends what you mean by that.”
+🔴
+“Don’t talk to me bout S T Y L E. You know what I’ll do.”
+🔴🔥
+“If you have to ask, you’re already behind.”
+“Money isn’t the problem. You are.”
+“Tell PETA my mink is dragging on the floor. Now play off the grid.”
+________________
+
+
+4️⃣0️⃣ “What are your thoughts on this weather?”
+🟢
+“I love it. Days like this just put me in a good mood.”
+⚪
+“It’s fine. Nothing special.”
+🔴
+“I hate it. It’s actually ruining my day.”
+🔴🔥
+“Don’t talk to me about the weather. You have no idea what I’m dealing with.”
+“The rain makes me want to wear a knight outfit and guard the cemetary.”[goated]
+________________
+
+
+4️⃣1️⃣ “Do you think you’re funny?”
+🟢
+“Yeah, I think I am.”
+“At least a little.”
+⚪
+“Sometimes.”
+“Depends on who I’m talking to.”
+🔴
+“I’m not here to entertain you. I’m just here to keep killing the rap game.”
+🔴🔥
+“I don’t care if you laugh. That’s not my problem.”
+“Yes. Laugh with me. HA HA”
+________________
+
+
+4️⃣2️⃣ “Why are you looking at me like that?”
+🟢
+“Like what? I’m sorry I wasn’t trying to look at you some type of way.”
+“Oh sorry. Should I stop?”
+“You’re just so beautiful. I hope that’s okay.”
+⚪
+“I’m not.”
+“What?...Bro what are you talking about man?”
+🔴
+“Because you’re acting weird.”
+“Because I can.”
+“Why do you look like that?”
+🔴🔥
+“Mind your business.”
+“I’m trying to plan my physical attack that I am about to launch on your face.”
+“I see more than you think.”
+________________
+
+
+4️⃣3️⃣ “What do you want?”
+🟢
+“Just a good conversation.”
+“To be happy.”
+
+
+⚪
+“I don’t really know.”
+“Hmm…not sure.”
+“Double cheeseburger.”
+🔴
+“Not this.”
+“You to go away.”
+🔴🔥
+“I want you to stop talking.”
+“More than this. Less than everything.”
+________________
+
+
+🎯 44. “Are you having a good day?”
+🟢 Positive
+“It’s been a really good day so far.”
+“Honestly yeah, I can’t complain.”
+⚪ Neutral
+“It’s been alright.”
+“Pretty average.”
+“Nothing special.”
+🔴 Negative
+“Not really.”
+“It’s been kind of rough.”
+“I’ve had better days.”
+🔴🔥 Severe
+“No. And I don’t feel like talking about it.”
+________________
+
+
+🎯 45. “What are you up to today?”
+🟢 Positive
+“Just enjoying the day. How about you?”
+“A little bit of everything.”
+“Talking to you now. How about you haha.”
+⚪ Neutral
+“Nothing much.”
+“Same old stuff.”
+“Just passing time.”
+🔴 Negative
+“Why?”
+“Nothing you need to know.”
+“Not much, unfortunately.”
+🔴🔥 Severe
+“Mind your business.”
+“Why are you asking me that?”
+“Stay out of it.”
+“If I told you, you’d have to kill me.”
+________________
+
+
+🎯 46. “Do you come here often?”
+🟢 Positive
+“Yeah, I like it here.”
+“I come here pretty often.”
+“It’s kind of my spot.”
+⚪ Neutral
+“Sometimes.”
+“Every now and then.”
+“Nah, it's my first time. It’s pretty chill though.”
+🔴 Negative
+“Why does that matter?”
+“That’s kind of a weird question.”
+“Not really, no.”
+🔴🔥 Severe
+“Why are you interrogating me?”
+“You’re making me uncomfortable.”
+“That doesn’t even make sense bruh. Step.”
+
+
+________________
+
+
+4️⃣7️⃣ “Sam Howell sent me.”
+🟢
+“Oh really? I like that guy. I’ve heard he has a large penis.”
+⚪
+Oh really? I like that guy. I’ve heard he has a large penis.”
+
+
+🔴
+“Oh really? I like that guy. I’ve heard he has a large penis.”
+
+
+🔴🔥
+“Oh really? I like that guy. I’ve heard he has a large penis.”
+
+
+🥚 RARE
+“Oh really? I like that guy. I’ve heard he has a large penis.”
