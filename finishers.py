@@ -55,7 +55,7 @@ DEFAULT_PREFIXES: Tuple[str, ...] = ("",)
 
 RawEntry = Union[str, Dict[str, Any]]
 
-_QUARKS_PATH = Path(__file__).resolve().parent.parent / "quarks.txt"
+_QUARKS_PATH = Path(__file__).resolve().parent / "quarks.txt"
 _QUARKS_LINES_CACHE: Optional[List[str]] = None
 
 # Fallback if a tier pool is empty (must stay synced with quarks line 123).
